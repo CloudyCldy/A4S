@@ -1,0 +1,4 @@
+subscription_id = ""
+location        = "eastus2"   
+prefix          = "lz"
+entra_admin_principal_name = "usuario@dominio.onmicrosoft.com"
